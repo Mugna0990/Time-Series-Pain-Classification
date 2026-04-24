@@ -1,6 +1,6 @@
 # Time-Series-Pain-Classification
 
-Multivariate time series classification for predicting human pain levels using a Bidirectional LSTM.
+8.5M parameter bidirectional LSTM to classify human pain states from multivariate sensor data, achieving a 0.98 weighted F1-score.
 
 ### Files:
 
